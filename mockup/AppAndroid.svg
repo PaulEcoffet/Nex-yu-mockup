@@ -15,7 +15,10 @@
    id="svg5039"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="AppAndroidNexYu.svg">
+   sodipodi:docname="AppAndroid.svg"
+   inkscape:export-filename="C:\Users\paul\Documents\GitHub\Nex-yu\mockup\AppAndroid.png"
+   inkscape:export-xdpi="104"
+   inkscape:export-ydpi="104">
   <defs
      id="defs5041">
     <linearGradient
@@ -203,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -692,13 +695,13 @@
            id="flowPara4406">La connexion se fait en scannant le QR code affiché par l'application Nex yu de votre ordinateur.</flowPara><flowPara
            style="font-size:17.5px"
            id="flowPara4408" /></flowRoot>      <image
-         sodipodi:absref="C:\Users\paul\Desktop\NexyuQr.png"
+         sodipodi:absref="C:\Users\paul\Documents\GitHub\Nex-yu\mockup\NexyuQr.png"
          xlink:href="NexyuQr.png"
-         y="542.99109"
-         x="476.21619"
-         id="image4443"
+         width="52.321922"
          height="52.321922"
-         width="52.321922" />
+         id="image4443"
+         x="476.21619"
+         y="542.99109" />
       <rect
          style="fill:#33b5e5;fill-opacity:1;stroke:none"
          id="rect4270-5"
