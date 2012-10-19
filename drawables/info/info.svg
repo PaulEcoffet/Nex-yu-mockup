@@ -14,7 +14,10 @@
    id="svg3143"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Nouveau document 2">
+   sodipodi:docname="info.svg"
+   inkscape:export-filename="C:\Users\paul\Documents\GitHub\Nex-yu-mockups\drawables\info\info_mdpi.png"
+   inkscape:export-xdpi="104"
+   inkscape:export-ydpi="104">
   <defs
      id="defs3145" />
   <sodipodi:namedview
@@ -68,14 +71,20 @@
        sodipodi:cx="222.64056"
        id="path4265"
        style="fill:none;stroke:#808080;stroke-width:2.6257472;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\paul\Documents\GitHub\Nex-yu-mockups\drawables\info\info_xhdpi.png"
+       inkscape:export-xdpi="179.90544"
+       inkscape:export-ydpi="179.90544" />
     <rect
        y="38.158482"
        x="20.801474"
        height="15.828307"
        width="2.8029196"
        id="rect4270"
-       style="fill:#33b5e5;fill-opacity:1;stroke:none" />
+       style="fill:#33b5e5;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\paul\Documents\GitHub\Nex-yu-mockups\drawables\info\info_xhdpi.png"
+       inkscape:export-xdpi="179.90544"
+       inkscape:export-ydpi="179.90544" />
     <text
        sodipodi:linespacing="125%"
        id="text4272"
@@ -87,5 +96,16 @@
          x="18.771231"
          id="tspan4274"
          sodipodi:role="line">i</tspan></text>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3164"
+       width="12.5"
+       height="28.928572"
+       x="35.714287"
+       y="21.506279"
+       transform="translate(3.793035,2.3233666)"
+       inkscape:export-filename="C:\Users\paul\Documents\GitHub\Nex-yu-mockups\drawables\info\info_xhdpi.png"
+       inkscape:export-xdpi="179.90544"
+       inkscape:export-ydpi="179.90544" />
   </g>
 </svg>
