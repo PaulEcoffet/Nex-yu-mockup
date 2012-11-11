@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1440"
+   width="900"
    height="900"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="AppComputer.svg"
-   inkscape:export-filename="C:\Users\Clément Maliet\Documents\GitHub\Nex-yu-mockup\mockup\Computer\AppComputer.png"
+   sodipodi:docname="AppComputer900pxWidth.svg"
+   inkscape:export-filename="C:\Users\Clément Maliet\Documents\GitHub\Nex-yu-mockup\mockup\Computer\AppComputer900pxWidth.png"
    inkscape:export-xdpi="89.059921"
    inkscape:export-ydpi="89.059921">
   <defs
@@ -246,7 +246,8 @@
        y1="6.5200729"
        x2="1371.2821"
        y2="-7.8888006"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-537.14772,152.36218)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3796"
@@ -256,7 +257,7 @@
        fx="1399.0001"
        fy="37.416321"
        r="27.3125"
-       gradientTransform="matrix(0.88273815,-6.2144296e-4,6.4967367e-4,0.91533184,163.95346,-8.9146632)"
+       gradientTransform="matrix(0.88273815,-6.2144296e-4,6.4967367e-4,0.91533184,-373.19426,143.44752)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -267,7 +268,7 @@
        y1="6.5200729"
        x2="1371.2821"
        y2="-7.8888006"
-       gradientTransform="matrix(0.98813678,0,0,1,16.936976,152.36218)" />
+       gradientTransform="matrix(0.98813678,0,0,1,-520.21074,152.36218)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3828"
@@ -317,7 +318,7 @@
        cy="89.207634"
        fx="1434.5333"
        fy="89.207634"
-       r="3.9848"
+       r="3.9848001"
        gradientTransform="matrix(1.5478512,0.87812661,-1.5093721,0.77513935,-653.15691,-1089.6226)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
@@ -330,7 +331,7 @@
        cy="89.207634"
        fx="1434.5333"
        fy="89.207634"
-       r="3.9848" />
+       r="3.9848001" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3958"
@@ -376,10 +377,11 @@
     <filter
        inkscape:collect="always"
        id="filter4056"
-       x="-0.072821126"
+       x="-0.072821125"
        width="1.1456423"
-       y="-0.14428646"
-       height="1.2885729">
+       y="-0.14428645"
+       height="1.2885729"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.0543892"
@@ -387,7 +389,8 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter4060">
+       id="filter4060"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.0543892"
@@ -408,7 +411,7 @@
        xlink:href="#linearGradient4152"
        id="linearGradient4144"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5766967,0,0,1.2982564,1299.9886,-62.817314)"
+       gradientTransform="matrix(0.5766967,0,0,1.2982564,762.84088,-62.817314)"
        x1="152"
        y1="198.11218"
        x2="152"
@@ -466,7 +469,7 @@
        cy="89.207634"
        fx="1434.5333"
        fy="89.207634"
-       r="3.9848" />
+       r="3.9848001" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3933"
@@ -477,7 +480,7 @@
        cy="89.207634"
        fx="1434.5333"
        fy="89.207634"
-       r="3.9848" />
+       r="3.9848001" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4184"
@@ -531,7 +534,7 @@
        xlink:href="#linearGradient4317"
        id="linearGradient4353"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0215183,0,0,1.2982564,1253.9975,-215.17949)"
+       gradientTransform="matrix(1.0215183,0,0,1.2982564,716.84978,-62.81731)"
        x1="152"
        y1="198.11218"
        x2="152"
@@ -544,9 +547,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="419.64452"
-     inkscape:cy="624.13829"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="407.28172"
+     inkscape:cy="453.51482"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -562,10 +565,6 @@
        orientation="0,1440"
        id="guide2985" />
     <sodipodi:guide
-       position="1440,0"
-       orientation="-900,0"
-       id="guide2987" />
-    <sodipodi:guide
        position="1440,900"
        orientation="0,-1440"
        id="guide2989" />
@@ -573,6 +572,10 @@
        position="0,900"
        orientation="900,0"
        id="guide2991" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="900,723"
+       id="guide3386" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -614,19 +617,20 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3982"
-       d="m 327.125,236.54847 1092.8746,0"
+       d="m 327.125,236.54847 552.856,0"
        style="fill:none;stroke:#323232;stroke-width:0.99190259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:#000000;fill-opacity:0;stroke:#0099cc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 312.1875,249.00026 0,38.23692"
+       d="m 312.1875,249.00026 0,51.98692"
        id="path3984"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
     <g
        id="g3885"
        transform="matrix(0.77464919,0,0,0.77464919,81.88955,52.715792)"
@@ -655,7 +659,7 @@
     <rect
        style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect2993"
-       width="1440"
+       width="900"
        height="33.289116"
        x="0"
        y="152.36218"
@@ -664,7 +668,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-opacity:1"
-       d="m 1428.1031,152.36218 0,12.6269 c 0,7.13521 -5.7442,12.87945 -12.8794,12.87945 l -85.3579,0 c -7.1352,0 -12.8795,-5.74424 -12.8795,-12.87945 l 0,-12.6269"
+       d="m 890.95538,152.36218 0,12.6269 c 0,7.13521 -5.7442,12.87945 -12.8794,12.87945 l -85.3579,0 c -7.1352,0 -12.8795,-5.74424 -12.8795,-12.87945 l 0,-12.6269"
        id="rect3763"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc"
@@ -676,16 +680,15 @@
        id="rect3766"
        width="110.26804"
        height="12.321426"
-       x="1317.4108"
-       y="0"
-       transform="translate(0,152.36218)"
+       x="780.26306"
+       y="152.36218"
        ry="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#808080;stroke-width:1.00708008px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1346.7857,152.36218 0,24.99303"
+       d="m 809.63798,152.36218 0,24.99303"
        id="path3776"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -693,7 +696,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#808080;stroke-width:1.00878012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1373.5714,152.36218 0,25.25921"
+       d="m 836.42368,152.36218 0,25.25921"
        id="path3778"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -702,15 +705,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3780"
-       d="m 1347.7959,152.36218 0,24.99303"
-       style="fill:#e6e6e6;stroke:#cccccc;stroke-width:1.00708007999999990px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 810.64818,152.36218 0,24.99303"
+       style="fill:#e6e6e6;stroke:#cccccc;stroke-width:1.00708008px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:url(#radialGradient3802);fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-opacity:1"
-       d="m 1374.4688,0 0,25.5 40.75,0 c 7.1351,0 12.875,-5.73979 12.875,-12.875 l 0,-12.625"
-       transform="translate(0,152.36218)"
+       d="m 837.32108,152.36218 0,25.5 40.75,0 c 7.1351,0 12.875,-5.73979 12.875,-12.875 l 0,-12.625"
        id="path3784"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc"
@@ -720,14 +722,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3782"
-       d="m 1374.5816,152.36218 0,24.98056"
-       style="fill:#ff8080;stroke:#ff5555;stroke-width:1.00320041000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 837.43388,152.36218 0,24.98056"
+       style="fill:#ff8080;stroke:#ff5555;stroke-width:1.00320041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:url(#linearGradient3810);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 1375.1001,152.36218 0,12.3125 52.5874,0 0,-12.3125 -52.5874,0 z"
+       d="m 837.95238,152.36218 0,12.3125 52.5874,0 0,-12.3125 -52.5874,0 z"
        id="rect3786"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -735,7 +737,7 @@
        inkscape:export-ydpi="90" />
     <rect
        y="231.11218"
-       x="1290.5"
+       x="750.41986"
        height="12.25"
        width="76"
        id="rect3998"
@@ -747,20 +749,20 @@
        sodipodi:linespacing="125%"
        id="text4000"
        y="241.11218"
-       x="1293.25"
+       x="753.16986"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="241.11218"
-         x="1293.25"
+         x="753.16986"
          id="tspan4002"
          sodipodi:role="line">Jeu. 20, 18:15</tspan></text>
     <rect
        style="fill:url(#linearGradient3875);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3867"
-       width="1440"
+       width="900"
        height="39.5"
        x="0"
        y="225.36218"
@@ -770,7 +772,7 @@
     <rect
        style="fill:url(#linearGradient3865);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3855"
-       width="1440"
+       width="900"
        height="44.840622"
        x="0"
        y="33.501301"
@@ -788,7 +790,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#323232;stroke-width:1.00011301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
-       d="m 1393.7372,287.69637 -1093.36208,0"
+       d="m 853.4872,301.44637 -551.36208,0"
        id="path3895"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -797,21 +799,23 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,33.214284 1440,0"
+       d="m 0,33.214284 900,0"
        id="path3812"
        inkscape:connector-curvature="0"
        transform="translate(0,152.36218)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path3814"
-       d="m 0,184.69258 1440,0"
+       d="m 0,184.69258 900,0"
        style="fill:#ececec;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
     <rect
        style="fill:url(#radialGradient3848);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3840"
@@ -827,7 +831,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3986"
-       d="m 312.1875,343.63908 0,47.2231"
+       d="m 312.1875,357.38908 0,79.7231"
        style="fill:#000000;fill-opacity:0;stroke:#0099cc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -835,7 +839,7 @@
        inkscape:export-ydpi="90" />
     <g
        id="g3897"
-       transform="translate(10.3125,114.68629)"
+       transform="translate(10.3125,128.43629)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -861,7 +865,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:#000000;fill-opacity:0;stroke:#0099cc;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 312.1875,470.62635 0,25.22216"
+       d="m 312.1875,516.62635 0,25.22216"
        id="path3988"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -869,15 +873,16 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,230.88088 1440,0"
+       d="m 0,230.88088 900,0"
        id="path3857"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#323232;stroke-width:0.99190259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
-       d="m 326.875,330.54847 1093.1246,0"
+       d="m 326.875,344.29847 552.9825,0"
        id="path3903"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -894,7 +899,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#d42c2c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1408.125,403.96258 0,54.38562"
+       d="m 868.04485,449.96258 0,54.38562"
        id="path3905"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -905,14 +910,14 @@
        inkscape:connector-curvature="0"
        id="path3879"
        d="m 300.875,230.4618 0,-44.41143"
-       style="fill:none;stroke:#f2f2f2;stroke-width:1.00466454000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#f2f2f2;stroke-width:1.00466454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path3913"
-       d="m 1393.7372,391.49536 -1093.36208,0"
+       d="m 853.7372,437.49536 -553.36208,0"
        style="fill:none;stroke:#323232;stroke-width:1.00011301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -922,7 +927,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3915"
-       d="m 1408.3024,300.25272 0,29.82586"
+       d="m 868.22225,314.00272 0,29.82586"
        style="fill:none;stroke:#d42c2c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -936,7 +941,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       transform="translate(10.3125,270.71551)"
+       transform="translate(10.3125,316.71551)"
        id="g3917"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -1034,7 +1039,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3923"
-       d="m 326.75,457.82769 1093.3731,0"
+       d="m 326.75,503.82769 553.231,0"
        style="fill:none;stroke:#323232;stroke-width:0.99331015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -1043,7 +1048,8 @@
        id="g4166"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-539.92525,0)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1144,16 +1150,16 @@
        id="rect4078"
        width="76"
        height="12.25"
-       x="1290.5"
-       y="282.61218"
+       x="750.41986"
+       y="296.36218"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="1293.25"
-       y="292.61218"
+       x="753.16986"
+       y="306.36218"
        id="text4080"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -1161,11 +1167,11 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4082"
-         x="1293.25"
-         y="292.61218">Jeu. 20, 18:15</tspan></text>
+         x="753.16986"
+         y="306.36218">Jeu. 20, 18:15</tspan></text>
     <rect
-       y="323.61218"
-       x="1290.4698"
+       y="337.36218"
+       x="750.38971"
        height="12.25"
        width="74.5"
        id="rect4084"
@@ -1176,32 +1182,62 @@
     <text
        sodipodi:linespacing="125%"
        id="text4086"
-       y="333.61218"
-       x="1292.7198"
+       y="347.36218"
+       x="752.63971"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="333.61218"
-         x="1292.7198"
+         y="347.36218"
+         x="752.63971"
          id="tspan4088"
          sodipodi:role="line">Jeu. 20, 18:17</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4095"
+       y="368.91245"
+       x="331.39169"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan4099"
+         y="368.91245"
+         x="331.39169"
+         sodipodi:role="line">Enfin bon c'est pas comme si c'était musset la nana quoi. :( En plus je veux pas balourder mais elle m'a</tspan><tspan
+         y="382.66245"
+         x="331.39169"
+         sodipodi:role="line"
+         id="tspan3397">montré sa rédaction pour le cours de vendredi et elle a carrément repompé des extrait des misérables, et ça </tspan><tspan
+         y="396.41245"
+         x="331.39169"
+         sodipodi:role="line"
+         id="tspan3411">moi j'appel ça du vol et du plagiat... Et ici on aime pas les voleurs et les fils de pute... Alors bon, la il faut que </tspan><tspan
+         y="410.16245"
+         x="331.39169"
+         sodipodi:role="line"
+         id="tspan3421">je remplisse encore deux putain de ligne pour finir ce messages mais je suis vraiment a cours d'idée alors </tspan><tspan
+         y="423.91245"
+         x="331.39169"
+         sodipodi:role="line"
+         id="tspan4113">je vais plutôt m'arreter la... </tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect4090"
        width="25.25"
        height="12.25"
-       x="1290.5"
-       y="385.86218"
+       x="750.41986"
+       y="431.56937"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="1292.75"
-       y="395.86218"
+       x="752.66986"
+       y="441.86218"
        id="text4092"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -1209,8 +1245,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4094"
-         x="1292.75"
-         y="395.86218">8:17</tspan></text>
+         x="752.66986"
+         y="441.86218">8:17</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4118"
@@ -1259,7 +1295,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       transform="matrix(0.57669669,0,0,1.2982564,1299.9886,-62.817318)"
+       transform="matrix(0.57669669,0,0,1.2982564,762.84088,-62.817318)"
        sodipodi:nodetypes="ccsc"
        style="fill:none;stroke:#b3b3b3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4056)"
        d="m 202.74758,209.61218 c 0,0 -2.90767,-10.99781 -18.2048,-11.98884 0,0 -51.99637,-0.37756 -69.08414,0.56699 -7.75573,0.42871 -12.96106,9.04685 -12.96106,9.04685"
@@ -1269,7 +1305,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       transform="matrix(0.57669669,0,0,1.2982564,1299.9886,-62.817318)"
+       transform="matrix(0.57669669,0,0,1.2982564,762.84088,-62.817318)"
        style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4060)"
        d="m 203.12258,210.86218 c 0,0 -7.35993,6.62719 -18.09173,8.23884 0,0 -39.39447,0.73948 -63.09921,0.18301 -3.80111,-0.5741 -19.01043,-2.89012 -19.43406,-11.67185"
        id="path4132"
@@ -1281,32 +1317,31 @@
     <rect
        ry="13.35794"
        y="194.70766"
-       x="1359.6766"
+       x="822.52893"
        height="26.715879"
        width="56.516277"
        id="rect4134"
-       style="fill:url(#linearGradient4144);fill-opacity:1;fill-rule:evenodd;stroke:#a95757;stroke-width:0.86527461000000006;stroke-opacity:1"
+       style="fill:url(#linearGradient4144);fill-opacity:1;fill-rule:evenodd;stroke:#a95757;stroke-width:0.86527461;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:url(#linearGradient4353);fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 1373.0938 42.34375 C 1365.6935 42.34375 1359.7188 48.318451 1359.7188 55.71875 C 1359.7188 63.119049 1365.6935 69.0625 1373.0938 69.0625 L 1386.8125 69.0625 L 1386.8125 42.34375 L 1373.0938 42.34375 z "
-       transform="translate(0,152.36218)"
-       id="rect4347" />
+       d="m 835.94608,194.70593 c -7.4003,0 -13.375,5.9747 -13.375,13.375 0,7.4003 5.9747,13.34375 13.375,13.34375 l 13.7187,0 0,-26.71875 -13.7187,0 z"
+       id="rect4347"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1347.392,78.25353 -13.1426,-21.545167 13.2875,-23.633317"
+       d="m 810.24428,230.61571 -13.1426,-21.54517 13.2875,-23.63331"
        id="path4146"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(0,152.36218)" />
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#ffffff;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1348.1875,186.15637 -12.9931,23.06937"
+       d="m 811.03978,186.15637 -12.9931,23.06937"
        id="path4148"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -1315,22 +1350,21 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#ffffff;stroke:#f2f2f2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1333.2499,57.040327 12.8162,20.948039"
+       d="m 796.10218,209.40251 12.8162,20.94804"
        id="path4150"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(0,152.36218)" />
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#e5b1b1;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1399.2338,209.13539 c 0,1.44945 1.7688,1.30205 1.7688,0.0983"
+       d="m 862.08608,209.13539 c 0,1.44945 1.7688,1.30205 1.7688,0.0983"
        id="path4383"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#d42c2c;stroke-width:1.69237292;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1400.1082,199.88484 0,9.30089"
+       d="m 862.96048,199.88484 0,9.30089"
        id="path4158"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -1338,13 +1372,13 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#e5b1b1;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1392.527,208.44751 c 0,8.40193 7.5174,8.15626 7.5174,8.15626 0,0 7.7633,-0.19654 7.7633,-7.81232"
+       d="m 855.37928,208.44751 c 0,8.40193 7.5174,8.15626 7.5174,8.15626 0,0 7.7633,-0.19654 7.7633,-7.81232"
        id="path4377"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#e5b1b1;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1394.6888,208.10357 c 0,-1.86709 2.6533,-4.07813 2.6533,-4.07813"
+       d="m 857.54108,208.10357 c 0,-1.86709 2.6533,-4.07813 2.6533,-4.07813"
        id="path4379"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1352,7 +1386,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4381"
-       d="m 1405.6457,208.10357 c 0,-1.86709 -2.6533,-4.07813 -2.6533,-4.07813"
+       d="m 868.49798,208.10357 c 0,-1.86709 -2.6533,-4.07813 -2.6533,-4.07813"
        style="fill:none;stroke:#e5b1b1;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:type="arc"
@@ -1363,7 +1397,7 @@
        sodipodi:rx="8.875"
        sodipodi:ry="8.875"
        d="m 1395.3163,51.21255 c 3.8176,3.074181 4.4203,8.661106 1.3462,12.478747 -3.0742,3.81764 -8.6612,4.420334 -12.4788,1.346153 -3.8176,-3.074181 -4.4203,-8.661106 -1.3462,-12.478747 0.476,-0.591034 1.0258,-1.118589 1.6359,-1.569753"
-       transform="matrix(0.74123022,0,0,0.74123022,369.98351,165.85256)"
+       transform="matrix(0.74123022,0,0,0.74123022,-167.16421,165.85256)"
        sodipodi:start="5.390327"
        sodipodi:end="10.358874"
        sodipodi:open="true"
@@ -1371,7 +1405,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
        d="m 330.125,72.749999 c 0,-13.625 9.625,-12.625 9.625,-12.625 l 4.9974,0 c 0,0 8.8776,0.140165 8.8776,12.640165"
        id="path4162"
        inkscape:connector-curvature="0"
@@ -2022,8 +2056,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="452.68378"
-       x="1290.5"
+       y="498.68378"
+       x="750.41986"
        height="12.25"
        width="25.25"
        id="rect3992"
@@ -2034,15 +2068,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text3994"
-       y="462.68378"
-       x="1292.75"
+       y="508.68378"
+       x="752.66986"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="462.68378"
-         x="1292.75"
+         y="508.68378"
+         x="752.66986"
          id="tspan3996"
          sodipodi:role="line">9:15</tspan></text>
     <text
@@ -2222,38 +2256,20 @@
          id="tspan4089"
          sodipodi:role="line"
          x="331.39169"
-         y="261.82434">En même temps elle me cherchai, je veux dire attend, vois la situation quoi... Elle était la a se ballader partout en criant mon nom, a regarder la dans tout les recoin de la terre... Moi je te dis elle me cherchai sauf que on le</tspan><tspan
+         y="261.82434">En même temps elle me cherchai, je veux dire attend, vois la situation quoi... Elle était la a se ballader partout </tspan><tspan
          sodipodi:role="line"
          x="331.39169"
          y="275.57434"
+         id="tspan3391">en criant mon nom, a regarder la dans tout les recoin de la terre... Moi je te dis elle me cherchai sauf que on le</tspan><tspan
+         sodipodi:role="line"
+         x="331.39169"
+         y="289.32434"
          id="tspan4093">reconnais pas le Dave donc logiquement la elle m'a pas trouvé, c'est bien dommage pour elle d'ailleurs...</tspan></text>
     <text
-       sodipodi:linespacing="125%"
-       id="text4095"
-       y="355.16245"
-       x="331.39169"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         id="tspan4099"
-         y="355.16245"
-         x="331.39169"
-         sodipodi:role="line">Enfin bon c'est pas comme si c'était musset la nana quoi. :( En plus je veux pas balourder mais elle m'a montré sa rédaction pour le cours de vendredi et elle a carrément repompé des extrait des misérables, et ça moi </tspan><tspan
-         y="368.91245"
-         x="331.39169"
-         sodipodi:role="line"
-         id="tspan4111">j'appel ça du vol et du plagiat... Et ici on aime pas les voleurs et les fils de pute... Alors bon, la il faut que je remplisse encore deux putain de ligne pour finir ce messages mais je suis vraiment a cours d'idée alors je  vais</tspan><tspan
-         y="382.66245"
-         x="331.39169"
-         sodipodi:role="line"
-         id="tspan4113">plutôt m'arreter la... </tspan></text>
-    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        x="331.39169"
-       y="312.73605"
+       y="326.48605"
        id="text4101"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -2261,13 +2277,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="331.39169"
-         y="312.73605"
+         y="326.48605"
          id="tspan4105">Hé hé, c'est vrai que vu comme ça... :P</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        x="331.39169"
-       y="415.26651"
+       y="461.26651"
        id="text4115"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -2276,15 +2292,19 @@
          id="tspan4121"
          sodipodi:role="line"
          x="331.39169"
-         y="415.26651">Ha ha j'aime ça ! Moi je vais plutôt reciter l'alphabet à tue tête, on dirais pas mais c'est du boulot vu que mon clavier est en azerty mais je vais essayer quand même. Abcdefghijklmnopqrstuvwxyz abcdefghijklmnoprs</tspan><tspan
+         y="461.26651">Ha ha j'aime ça ! Moi je vais plutôt reciter l'alphabet à tue tête, on dirais pas mais c'est du boulot vu que </tspan><tspan
          sodipodi:role="line"
          x="331.39169"
-         y="429.01651"
-         id="tspan4128">tuvwxyz... Je m'emmerde en fait...</tspan></text>
+         y="475.01651"
+         id="tspan3429">mon clavier est en azerty mais je vais essayer quand même. Abcdefghijklmnopqrstuvwxyz abcdefghijklm</tspan><tspan
+         sodipodi:role="line"
+         x="331.39169"
+         y="488.76651"
+         id="tspan4128">noprstuvwxyz... Je m'emmerde en fait...</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4130"
-       y="485.73605"
+       y="531.73608"
        x="331.39169"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"
@@ -2292,7 +2312,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          id="tspan4132"
-         y="485.73605"
+         y="531.73608"
          x="331.39169"
          sodipodi:role="line">Tu me fait un peu penser à Georges politiquement...</tspan></text>
     <g
@@ -2318,7 +2338,7 @@
     </g>
     <path
        style="fill:none;stroke:#323232;stroke-width:0.99331015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.63529412"
-       d="m 335.25,967.82769 1084.8731,0"
+       d="m 335.25,967.82769 544.731,0"
        id="path4140"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2329,7 +2349,7 @@
        inkscape:connector-curvature="0"
        id="path4142"
        d="m 318.625,984.47351 0,67.88869"
-       style="fill:#ffbb33;fill-opacity:0;stroke:#ffbb33;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffbb33;fill-opacity:0;stroke:#ffbb33;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -2517,7 +2537,7 @@
     <rect
        style="fill:url(#linearGradient4190);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect4182"
-       width="1085.8438"
+       width="545.94977"
        height="8.3125"
        x="334.03125"
        y="815.8125"
@@ -2538,7 +2558,11 @@
          sodipodi:role="line"
          id="tspan4194"
          x="337"
-         y="995.26166">Quoi ! Mais c'est n'importe quoi parce que quand on y pense moi je suis un vrai démocr|</tspan></text>
+         y="995.26166">Quoi ! Mais c'est n'importe quoi parce que quand on y pense moi je suis un vrai </tspan><tspan
+         sodipodi:role="line"
+         x="337"
+         y="1012.7617"
+         id="tspan3435">démocr|</tspan></text>
     <path
        transform="matrix(1.0192654,0,0,1.2982564,-462.33424,-62.817318)"
        sodipodi:nodetypes="ccsc"
@@ -2749,7 +2773,7 @@
          y="213.86218">Ma recher|</tspan></text>
     <g
        id="g4105"
-       transform="matrix(0.98184687,0,0,0.98184687,1183.9811,784.05764)"
+       transform="matrix(0.98184687,0,0,0.98184687,653.81837,784.05764)"
        style="stroke:#33b5e5"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -2851,7 +2875,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 253.59249,123.30758 206.83755,123.1864 230.31996,82.756024 z"
-       transform="matrix(0.41474895,0,0,-0.15123139,1288.2687,512.97058)"
+       transform="matrix(0.41474895,0,0,-0.15123139,758.10597,589.97058)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2860,8 +2884,8 @@
        id="rect4169"
        width="19.806223"
        height="10.398266"
-       x="1373.7316"
-       y="494.27234"
+       x="843.56885"
+       y="571.27234"
        ry="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -2871,8 +2895,8 @@
        id="rect4173"
        width="5.093801"
        height="2.7336903"
-       x="-1373.9099"
-       y="498.31232"
+       x="-843.74719"
+       y="575.31232"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -2892,13 +2916,13 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1401.3686,332.37911 0,-5.7634 4.9912,2.8817 z"
-       transform="matrix(-0.98184687,0,0,0.98184687,2744.8044,176.09808)"
+       transform="matrix(-0.98184687,0,0,0.98184687,2214.6417,253.09808)"
        inkscape:transform-center-x="0.81680994"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       transform="matrix(0.41474895,0,0,-0.15123139,1288.2687,545.37152)"
+       transform="matrix(0.41474895,0,0,-0.15123139,758.10597,553.37152)"
        d="M 253.59249,123.30758 206.83755,123.1864 230.31996,82.756024 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -2918,8 +2942,8 @@
        inkscape:export-ydpi="90" />
     <rect
        ry="0"
-       y="526.67334"
-       x="1373.7316"
+       y="534.67334"
+       x="843.56885"
        height="10.398266"
        width="19.806223"
        id="rect4194"
@@ -2928,8 +2952,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="519.09705"
-       x="1389.989"
+       y="527.47205"
+       x="859.82629"
        height="10.860217"
        width="9.3582726"
        id="rect4196"
@@ -2938,8 +2962,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="530.71332"
-       x="-1373.9099"
+       y="538.71332"
+       x="-843.74719"
        height="2.7336903"
        width="5.093801"
        id="rect4199"
@@ -2950,7 +2974,7 @@
        transform="scale(-1,1)" />
     <path
        inkscape:transform-center-x="0.81680994"
-       transform="matrix(-0.98184687,0,0,0.98184687,2744.8044,208.49903)"
+       transform="matrix(-0.98184687,0,0,0.98184687,2214.6417,216.49903)"
        d="m 1401.3686,332.37911 0,-5.7634 4.9912,2.8817 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -2983,7 +3007,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 253.59249,123.30758 206.83755,123.1864 230.31996,82.756024 z"
-       transform="matrix(0.41474895,0,0,-0.15123139,1288.2687,574.82693)"
+       transform="matrix(0.41474895,0,0,-0.15123139,758.10597,638.07693)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2992,8 +3016,8 @@
        id="rect4219"
        width="19.806223"
        height="10.398266"
-       x="1373.7316"
-       y="556.12872"
+       x="843.56885"
+       y="619.37872"
        ry="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
@@ -3003,8 +3027,8 @@
        id="rect4221"
        width="9.3582726"
        height="10.860217"
-       x="1389.989"
-       y="548.55249"
+       x="859.82629"
+       y="611.80249"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3013,8 +3037,8 @@
        id="rect4223"
        width="5.093801"
        height="2.7336903"
-       x="-1373.9099"
-       y="560.1687"
+       x="-843.74719"
+       y="623.4187"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -3034,14 +3058,14 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1401.3686,332.37911 0,-5.7634 4.9912,2.8817 z"
-       transform="matrix(-0.98184687,0,0,0.98184687,2744.8044,237.95443)"
+       transform="matrix(-0.98184687,0,0,0.98184687,2214.6417,301.20443)"
        inkscape:transform-center-x="0.81680994"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#d42c2c;stroke-width:1.96369374;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1395.9083,527.16675 -2.8131,0.006 5.635,-9.75996 5.6178,9.73031 -2.8132,0.008"
+       d="m 865.74557,534.66675 -2.8131,0.006 5.635,-9.75996 5.6178,9.73031 -2.8132,0.008"
        id="path4262"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -3050,7 +3074,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#d42c2c;stroke-width:1.96369374;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1398.5626,522.48651 0,3.55814"
+       d="m 868.39987,529.98651 0,3.55814"
        id="path4264"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -3058,7 +3082,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#d42c2c;stroke-width:1.96369374;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1398.5626,527.78033 0,1.5621"
+       d="m 868.39987,535.28033 0,1.5621"
        id="path4266"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -3066,7 +3090,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#99cc00;stroke-width:1.96369374;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1392.0099,553.50478 2.0321,3.51969 7.1872,-7.18717"
+       d="m 861.84717,616.75478 2.0321,3.51969 7.1872,-7.18717"
        id="path4279"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
@@ -3081,14 +3105,14 @@
        sodipodi:rx="6.805903"
        sodipodi:ry="6.805903"
        d="m 1380.8027,340.76694 c 0,3.75879 -3.0471,6.8059 -6.8059,6.8059 -3.7588,0 -6.8059,-3.04711 -6.8059,-6.8059 0,-3.7588 3.0471,-6.80591 6.8059,-6.80591 3.7588,0 6.8059,3.04711 6.8059,6.80591 z"
-       transform="matrix(0.89226896,0,0,0.89226896,148.97445,732.68932)"
+       transform="matrix(0.89226896,0,0,0.89226896,-381.18828,732.68932)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:9.81495857px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#8d4b00;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="1372.1174"
+       x="841.95471"
        y="1040.2065"
        id="text4281"
        sodipodi:linespacing="125%"
@@ -3096,11 +3120,11 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="1372.1174"
+         x="841.95471"
          y="1040.2065"
          id="tspan4285">2</tspan></text>
     <path
-       transform="matrix(0.77352553,0,0,0.77352553,312.12755,773.15315)"
+       transform="matrix(0.77352553,0,0,0.77352553,-218.03518,773.15315)"
        d="m 1380.8027,340.76694 c 0,3.75879 -3.0471,6.8059 -6.8059,6.8059 -3.7588,0 -6.8059,-3.04711 -6.8059,-6.8059 0,-3.7588 3.0471,-6.80591 6.8059,-6.80591 3.7588,0 6.8059,3.04711 6.8059,6.80591 z"
        sodipodi:ry="6.805903"
        sodipodi:rx="6.805903"
@@ -3118,66 +3142,66 @@
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:connector-curvature="0"
        id="path4349"
-       d="m 1386.6856,220.86218 0,-25.75"
+       d="m 849.53788,220.86218 0,-25.75"
        style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        style="fill:#ececec;stroke:#e5b1b1;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1387.6231,220.86218 0,-25.75"
+       d="m 850.47538,220.86218 0,-25.75"
        id="path4351"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1371.0772,208.29042 c 0,-3.96649 6.1877,-3.80783 6.1348,0"
+       d="m 833.92948,208.29042 c 0,-3.96649 6.1877,-3.80783 6.1348,0"
        id="path4414"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1364.625,208.55486 2.8295,1.1635 c 0,0 0.2115,0.7933 0.3702,1.16351 0.1586,0.37021 0.5024,0.76686 0.5024,0.76686"
+       d="m 827.47728,208.55486 2.8295,1.1635 c 0,0 0.2115,0.7933 0.3702,1.16351 0.1586,0.37021 0.5024,0.76686 0.5024,0.76686"
        id="path4416"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1367.1107,214.66326 0.714,0.7933 2.6443,-1.13706 c 0,0 0.7404,0.42309 1.2164,0.55531 0.476,0.13222 0.7933,0.1851 0.7933,0.1851"
+       d="m 829.96298,214.66326 0.714,0.7933 2.6443,-1.13706 c 0,0 0.7404,0.42309 1.2164,0.55531 0.476,0.13222 0.7933,0.1851 0.7933,0.1851"
        id="path4418"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1373.7744,217.83646 0.8462,0.0265"
+       d="m 833.69425,217.83646 0.8462,0.0265"
        id="path4420"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1375.6254,215.16569 c 1.4809,-0.0793 2.327,-0.87263 2.327,-0.87263 l 2.6709,1.1635 0.7139,-0.74041"
+       d="m 838.47768,215.16569 c 1.4809,-0.0793 2.327,-0.87263 2.327,-0.87263 l 2.6709,1.1635 0.7139,-0.74041"
        id="path4422"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1380.0415,211.96605 c 0.8991,-1.08418 0.952,-2.16836 0.952,-2.16836 l 2.6178,-1.13706"
+       d="m 842.89378,211.96605 c 0.8991,-1.08418 0.952,-2.16836 0.952,-2.16836 l 2.6178,-1.13706"
        id="path4424"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1380.0944,204.56191 1.137,-2.40634"
+       d="m 842.94668,204.56191 1.137,-2.40634"
        id="path4426"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#cccccc;stroke-width:0.84618646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1367.1107,202.12913 1.0048,2.30057"
+       d="m 829.96298,202.12913 1.0048,2.30057"
        id="path4428"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 1373.6421,198.95593 -1.0047,2.53856 c -0.7648,0.17343 -1.4716,0.46735 -2.1155,0.87263 l -2.6179,-1.11062 c -0.2388,0.20655 -0.4444,0.43202 -0.6611,0.66108 l 1.1106,2.61789 c -0.4054,0.64406 -0.6991,1.35078 -0.8726,2.11547 l -2.7765,1.11062 c -0.016,0.17864 -0.027,0.3741 -0.027,0.55531 l 0,0.26443 2.7766,1.13706 c 0.1734,0.76469 0.4938,1.4714 0.899,2.11547 l -1.1899,2.77655 c 0.181,0.19575 0.3581,0.40185 0.5552,0.58175 l 2.7766,-1.18995 c 0.644,0.40528 1.3773,0.69921 2.142,0.87263 l 1.1105,2.77655 c 0.1273,0.005 0.2425,0 0.3703,0 l 0.026,0 c 0.1482,0 0.276,0.006 0.4231,0 l 1.1106,-2.77655 c 0.7646,-0.17343 1.4978,-0.46735 2.142,-0.87263 l 2.7501,1.16351 c 0.2053,-0.18862 0.3938,-0.37588 0.5816,-0.58175 l -1.1635,-2.75011 c 0.4054,-0.64406 0.6991,-1.35078 0.8727,-2.11547 l 2.7236,-1.11062 0,-0.29087 c 0,-0.19052 -0.023,-0.39406 -0.026,-0.58176 l -2.6972,-1.08417 c -0.1736,-0.76468 -0.4937,-1.4714 -0.8991,-2.11547 l 1.1106,-2.565 c -0.2233,-0.23933 -0.4666,-0.47238 -0.7139,-0.68753 l -2.5385,1.08418 c -0.6442,-0.40528 -1.3773,-0.6992 -2.142,-0.87263 l -1.0048,-2.51212 c -0.1804,-0.01 -0.3722,-0.0264 -0.5553,-0.0264 -0.1617,0 -0.3164,-0.008 -0.4761,0 z m 0.4761,6.21418 c 1.7348,0 3.1467,1.41186 3.1467,3.14676 0,1.73489 -1.4119,3.14675 -3.1467,3.14675 -1.7349,0 -3.1468,-1.41186 -3.1468,-3.14675 0,-1.7349 1.4119,-3.14676 3.1468,-3.14676 z"
+       d="m 836.49438,198.95593 -1.0047,2.53856 c -0.7648,0.17343 -1.4716,0.46735 -2.1155,0.87263 l -2.6179,-1.11062 c -0.2388,0.20655 -0.4444,0.43202 -0.6611,0.66108 l 1.1106,2.61789 c -0.4054,0.64406 -0.6991,1.35078 -0.8726,2.11547 l -2.7765,1.11062 c -0.016,0.17864 -0.027,0.3741 -0.027,0.55531 l 0,0.26443 2.7766,1.13706 c 0.1734,0.76469 0.4938,1.4714 0.899,2.11547 l -1.1899,2.77655 c 0.181,0.19575 0.3581,0.40185 0.5552,0.58175 l 2.7766,-1.18995 c 0.644,0.40528 1.3773,0.69921 2.142,0.87263 l 1.1105,2.77655 c 0.1273,0.005 0.2425,0 0.3703,0 l 0.026,0 c 0.1482,0 0.276,0.006 0.4231,0 l 1.1106,-2.77655 c 0.7646,-0.17343 1.4978,-0.46735 2.142,-0.87263 l 2.7501,1.16351 c 0.2053,-0.18862 0.3938,-0.37588 0.5816,-0.58175 l -1.1635,-2.75011 c 0.4054,-0.64406 0.6991,-1.35078 0.8727,-2.11547 l 2.7236,-1.11062 0,-0.29087 c 0,-0.19052 -0.023,-0.39406 -0.026,-0.58176 l -2.6972,-1.08417 c -0.1736,-0.76468 -0.4937,-1.4714 -0.8991,-2.11547 l 1.1106,-2.565 c -0.2233,-0.23933 -0.4666,-0.47238 -0.7139,-0.68753 l -2.5385,1.08418 c -0.6442,-0.40528 -1.3773,-0.6992 -2.142,-0.87263 l -1.0048,-2.51212 c -0.1804,-0.01 -0.3722,-0.0264 -0.5553,-0.0264 -0.1617,0 -0.3164,-0.008 -0.4761,0 z m 0.4761,6.21418 c 1.7348,0 3.1467,1.41186 3.1467,3.14676 0,1.73489 -1.4119,3.14675 -3.1467,3.14675 -1.7349,0 -3.1468,-1.41186 -3.1468,-3.14675 0,-1.7349 1.4119,-3.14676 3.1468,-3.14676 z"
        id="path4401"
        inkscape:connector-curvature="0" />
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
-       transform="matrix(-1,0,0,1,1710.1873,71.701915)"
+       transform="matrix(-1,0,0,1,1170.1072,85.45192)"
        id="g4174">
       <path
          sodipodi:open="true"
@@ -3200,7 +3224,7 @@
     </g>
     <g
        id="g4182"
-       transform="matrix(-1,0,0,1,1710.1873,175.48317)"
+       transform="matrix(-1,0,0,1,1170.1072,221.48317)"
        inkscape:export-filename="C:\Users\Clément Maliet\Pictures\NexYuMockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
